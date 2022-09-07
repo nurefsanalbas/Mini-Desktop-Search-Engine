@@ -1,0 +1,17 @@
+first,1
+case,2
+beam,1
+convective,2
+considered,1
+faces,1
+wide,1
+flanged,1
+heat,2
+flanges.,1
+flat,1
+transfer,2
+outer,1
+one,1
+second,1
+plate,1
+side,1
